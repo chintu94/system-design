@@ -1,0 +1,1 @@
+This has the Notes for Frontend System Design and its basic principle. 
